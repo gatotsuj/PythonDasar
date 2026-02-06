@@ -1,7 +1,10 @@
 i = 7
 
 if(i == 5):
-    print("i equals 10")
+    print("ini adalah angka 5")
 
+elif(i > 5):
+    print("lebih besar dari 5")
 else:
-    print("i not equals 10")
+    print("lebih kecil dari 5")
+
